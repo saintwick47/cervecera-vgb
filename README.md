@@ -50,7 +50,7 @@ SHA-256 y abre el instalador (el sistema pide tocar “Instalar”).
 
 ### Cómo se activa el Pro
 
-1. Abrí la app → **Ayuda → 🔑 Versión / Licencia** (en Android: **Ajustes → 🔑 Versión / Licencia**).
+1. Abrí la app → **Ayuda → 🔑 Versión / Licencia** (en Android: **Ajustes → 🔑 Versión / Licencia**, o el botón **🔑 Free / Pro** de la barra superior).
 2. Copiá tu **ID de equipo** (botón “Copiar”) y escribinos a **nicoweb45@proton.me**.
 3. Te devolvemos un **código de activación** que empieza con `VGBL-…`.
 4. En esa misma pantalla pegá el código con **“📋 Pegar y activar”**.
