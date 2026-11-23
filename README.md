@@ -7,6 +7,18 @@ programadas, equipos y etiquetas de lote.
 Disponible para **Windows**, **Linux** (Debian/Ubuntu, Fedora/openSUSE, AppImage),
 **macOS** (Apple Silicon) y **Android**. Funciona **sin conexión**.
 
+## ✨ Novedades 1.7.1 (en preparación)
+
+- **PC y Android**: modo **Cocción** con etapas, timer, avisos de adición de
+  lúpulo y registro de mediciones.
+- **Tamaño de letra 100–150 %** para leer mejor (el 100 % es el tamaño original;
+  no se achica más): **Herramientas** en PC, **Ajustes → Accesibilidad** en
+  Android.
+- **Agua más clara**: tabla fuente/objetivo/final/Δ, sales y dilución (PC y APK).
+- **🧹 Limpiar log** para diagnosticar sin que el error se pierda entre líneas.
+- La **1.7.0** sigue siendo la última publicada hasta que se suban los
+  instaladores/APK de 1.7.1.
+
 ## 📥 Descarga
 
 Entrá a la pestaña **[Releases](https://github.com/saintwick47/cervecera-vgb/releases/latest)**
