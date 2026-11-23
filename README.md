@@ -7,7 +7,7 @@ programadas, equipos y etiquetas de lote.
 Disponible para **Windows**, **Linux** (Debian/Ubuntu, Fedora/openSUSE, AppImage),
 **macOS** (Apple Silicon) y **Android**. Funciona **sin conexión**.
 
-## ✨ Novedades 1.7.1 (en preparación)
+## ✨ Novedades 1.7.1
 
 - **PC y Android**: modo **Cocción** con etapas, timer, avisos de adición de
   lúpulo y registro de mediciones.
@@ -16,8 +16,8 @@ Disponible para **Windows**, **Linux** (Debian/Ubuntu, Fedora/openSUSE, AppImage
   Android.
 - **Agua más clara**: tabla fuente/objetivo/final/Δ, sales y dilución (PC y APK).
 - **🧹 Limpiar log** para diagnosticar sin que el error se pierda entre líneas.
-- La **1.7.0** sigue siendo la última publicada hasta que se suban los
-  instaladores/APK de 1.7.1.
+- **Ya disponible** en la pestaña **Releases**: APK firmado e instaladores de
+  Windows, Linux y macOS.
 
 ## 📥 Descarga
 
